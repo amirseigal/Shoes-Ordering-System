@@ -1,2 +1,2 @@
 # Shoes-Ordering-System
-Shoes Ordering System with phpMyAdmin / MySQL / Xampp
+Shoes Ordering System with PHP / MySQL / Xampp
